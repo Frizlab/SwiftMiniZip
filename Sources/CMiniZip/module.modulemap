@@ -1,0 +1,5 @@
+module CMiniZip [system] {
+	header "minizip.h"
+	link "minizip"
+	export *
+}
